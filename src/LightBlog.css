@@ -1,0 +1,11 @@
+.contenedor {
+    position: relative;
+    pading-top:56.25%;
+
+}
+
+RealPLayer {
+    position:absolute;
+    top:0;
+    left:0;
+}
