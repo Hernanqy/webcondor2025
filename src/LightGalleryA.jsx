@@ -1,5 +1,5 @@
 import React from "react";
-import casco1 from "./images/casco.jpeg"
+import casco1 from "./images/imgen5.jpeg"
 import imagen1 from "./images/imagen1.png"
 import imagen2 from "./images/imagen2.png"
 import imagen3 from "./images/imagen3.jpeg"

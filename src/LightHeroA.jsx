@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from  "prop-types";
-import joven from "./images/joven1.png"
+import joven from "./images/imagen1.png"
 function LightHeroA(props) {
   return (
     <section className="text-gray-600 body-font">
