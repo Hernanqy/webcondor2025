@@ -1,9 +1,9 @@
 import React from "react";
 import casco1 from "./images/casco.jpeg"
-import imagen1 from "./images/imagen1.jpeg"
-import imagen2 from "./images/imagen2.jpeg"
+import imagen1 from "./images/imagen1.png"
+import imagen2 from "./images/imagen2.png"
 import imagen3 from "./images/imagen3.jpeg"
-import imagen4 from "./images/imagen4.png"
+import imagen4 from "./images/imagen4.jpeg"
 function LightGalleryA() {
   return (
     <section className="text-gray-600 body-font " id="galeria1">
